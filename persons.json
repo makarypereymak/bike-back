@@ -1,0 +1,61 @@
+{
+  "persons": [
+    {
+      "login": "alis",
+      "pass": "alis",
+      "role": "admin",
+      "favoritesStations": [
+        {
+          "empty_slots": 9,
+          "extra": {
+            "number": 2,
+            "reviews": 9,
+            "score": 3.2,
+            "status": "online",
+            "uid": "1296"
+          },
+          "free_bikes": 1,
+          "id": "6af08893b5829e61121453c0aa31a215",
+          "latitude": 43.314553575496504,
+          "longitude": 11.331021341104474,
+          "name": "02. S. Agostino",
+          "timestamp": "2022-11-30T09:07:43.694000Z"
+        },
+        {
+          "empty_slots": 5,
+          "extra": {
+            "number": 3,
+            "reviews": 15,
+            "score": 3.8,
+            "status": "online",
+            "uid": "1297"
+          },
+          "free_bikes": 2,
+          "id": "58e531cdb5cbafdedbbb25f4d4e6f758",
+          "latitude": 43.31653903296188,
+          "longitude": 11.337211648409948,
+          "name": "03. S. Girolamo",
+          "timestamp": "2022-11-30T09:07:43.694000Z"
+        }
+      ]
+    },
+    {
+      "login": "makar",
+      "pass": "alis",
+      "role": "user",
+      "favoritesStations": []
+    },
+    {
+      "login": "mark",
+      "pass": "alis",
+      "role": "admin",
+      "favoritesStations": []
+    },
+    {
+      "login": "lisa",
+      "pass": "lisa",
+      "role": "user",
+      "favoritesStations": []
+    }
+  ]
+}
