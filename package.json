@@ -1,9 +1,12 @@
 {
-  "main": "index.mjs",
-  "exports": "./index.mjs",
+  "main": "index.js",
+  "exports": "./index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.mjs"
+    "dev": "nodemon index.js"
   },
   "dependencies": {
     "bcrypt": "^5.1.0",
